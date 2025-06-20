@@ -1,5 +1,11 @@
 Vínculos Verdes - AGRINHO 2025🍀
-  SOBRE O JOGO
+
+CONTROLES
+
+   Para andar utilizae as SETAS  - ⬆️➡️⬅️⬇️
+
+
+ SOBRE O JOGO
    Jogo desenvolvido para o projeto agrinho 2025 
 
 Campo🌾🌻
@@ -10,7 +16,8 @@ O jogo Vínculos Verdes, feito pra o AGRINHO 2025  é um jogo onde nos é mostra
 
   Cidade🚗🏙️
  
-    Chegando na cidade para fazer a entrega, eles param em um ponto específico, a igreja da praça da cidade, que por acaso lá estava o padre, que diáloga com eles sobre a feira do milho e recebe os produtos. 
+    Chegando na cidade para fazer a entrega, eles param em um ponto específico, a igreja da praça da cidade, que por acaso lá
+  estava o padre, que diáloga com eles sobre a feira do milho e recebe os produtos. 
     Mais tarde, nós vamos a feira do milho e participamos da gincana para ganhar um crepe e assim terminando o jogo.
 
 créditos✨
